@@ -1,2 +1,2 @@
 # OOP-assignment
-Building sales report class 
+Building sales report using class 
